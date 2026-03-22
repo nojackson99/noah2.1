@@ -31,10 +31,8 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            Get started by editing <code>apps/web/app/page.tsx</code>
-          </li>
-          <li>Save and see your changes instantly.</li>
+          <li>noah2.1 — AI life assistant</li>
+          <li>Phase 0: Foundation in progress</li>
         </ol>
 
         <div className={styles.ctas}>
